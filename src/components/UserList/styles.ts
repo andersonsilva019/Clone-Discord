@@ -74,8 +74,6 @@ export const User = styled.div`
     font-weight: bold;
     font-size: 11px;
     color: #FFF;
-
-
   }
 `;
 export const Avatar = styled.div`
